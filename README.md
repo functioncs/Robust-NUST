@@ -1,6 +1,3 @@
 # Robust-NUST
 
-The occlusion face dataset, published by Nanjing University of Science and Technology.
-
-PeterChen
-Email: petercheninchina@gmail.com  or  functioncs@qq.com
+The occlusion face dataset, published by School of Computer Science and Engineering, Nanjing University of Science and Technology.
